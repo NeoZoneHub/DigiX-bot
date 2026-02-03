@@ -11,7 +11,6 @@ Rapide • Modulaire • Évolutif
    
 
 </div>
----
 
 🚀 À propos du projet
 
@@ -65,7 +64,6 @@ Digital Crew 243, c’est la discipline + la créativité.
 <div align="center"><a href="https://whatsapp.com/channel/0029VbBT7FdLCoX1TDyQQb1B">
   <img src="https://img.shields.io/badge/Rejoindre%20la%20Chaîne%20WhatsApp-00c853?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a></div>
----
 
 🛠️ Utilisation
 
